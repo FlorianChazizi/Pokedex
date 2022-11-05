@@ -1,0 +1,29 @@
+.Pokedex{
+    text-align: center;
+}
+.Pokedex-title{
+    text-align: center;
+    font-size: 3rem;
+}
+.Pokedex-cards{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Pokedex-Battle{
+    font-size: 40px;
+    font-weight: 700;
+}
+.Pokedex-Winner{
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(60, 173, 60);    
+}
+.Pokedex-Defeated{
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(235, 46, 46);
+}
